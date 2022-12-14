@@ -1,0 +1,1240 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "IL2CPP_CodeGen /Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_ian9.traceevents",
+      "Action": "\"/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp\" --convert-to-cpp --directory=\"/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed\" --data-folder=\"/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput/Data\" --generatedcppdir=\"/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput\" --symbols-folder=\"/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols\" --additional-cpp=\"/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp\" --additional-cpp=\"/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp\" --emit-null-checks --enable-array-bounds-check --code-generation-option=EnableInlining --stats-output-dir=\"/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppStats\" --dotnetprofile=unityaot-macos --cachedirectory=\"/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS\" --profiler-report --profiler-output-file=\"/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_ian9.traceevents\"",
+      "ProfilerOutput": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_ian9.traceevents",
+      "Inputs": [
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Analytics",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.Api.Output.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.Api.Output.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.Api.Output.xml",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.deps.json",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.runtimeconfig.json",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.BeeDriver.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.BeeDriver.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.BeeDriver.xml",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Core.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Core.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Core.xml",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.CSharpSupport.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.CSharpSupport.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.DotNet.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.DotNet.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.NativeProgramSupport.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.NativeProgramSupport.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Stevedore.Program.exe",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Stevedore.Program.exe.config",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Stevedore.Program.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TinyProfiler2.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TinyProfiler2.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TinyProfiler2.xml",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Android.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Android.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Emscripten.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Emscripten.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.GNU.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.GNU.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Linux.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Linux.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.LLVM.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.LLVM.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.MacOS.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.MacOS.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.VisualStudio.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.VisualStudio.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Windows.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Windows.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Xcode.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Xcode.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Tools.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Tools.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TundraBackend.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TundraBackend.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.VisualStudioSolution.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.VisualStudioSolution.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/createdump",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.deps.json",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.dll.config",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.runtimeconfig.json",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/JetBrains.Profiler.Api.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libclrjit.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libcoreclr.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libdbgshim.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libhostfxr.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libhostpolicy.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libmscordaccore.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libmscordbi.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.Globalization.Native.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.IO.Compression.Native.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.Native.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.Net.Security.Native.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.Security.Cryptography.Native.Apple.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/libSystem.Security.Cryptography.Native.OpenSsl.dylib",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Bcl.HashCode.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.CSharp.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.VisualBasic.Core.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.VisualBasic.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Win32.Primitives.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Win32.Registry.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/MiniProfiler.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/MiniProfiler.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Mdb.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Pdb.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Rocks.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/monolinker.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/monolinker.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/mscorlib.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/netstandard.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Newtonsoft.Json.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/NiceIO.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/NiceIO.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/NiceIO.xml",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/SharpYaml.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.AppContext.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Buffers.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Concurrent.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Immutable.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.NonGeneric.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Specialized.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.Annotations.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.DataAnnotations.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.EventBasedAsync.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.Primitives.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.TypeConverter.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Configuration.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Console.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Core.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.Common.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.DataSetExtensions.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Contracts.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Debug.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.DiagnosticSource.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.FileVersionInfo.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Process.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.StackTrace.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.TextWriterTraceListener.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Tools.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.TraceSource.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Tracing.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Drawing.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Drawing.Primitives.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Dynamic.Runtime.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Formats.Asn1.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.Calendars.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.Extensions.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.Brotli.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.FileSystem.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.ZipFile.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.AccessControl.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.DriveInfo.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.Primitives.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.Watcher.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.IsolatedStorage.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.MemoryMappedFiles.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Pipes.AccessControl.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Pipes.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.UnmanagedMemoryStream.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Expressions.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Parallel.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Queryable.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Memory.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Http.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Http.Json.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.HttpListener.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Mail.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.NameResolution.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.NetworkInformation.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Ping.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Primitives.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Quic.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Requests.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Security.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.ServicePoint.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Sockets.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebClient.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebHeaderCollection.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebProxy.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebSockets.Client.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebSockets.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Numerics.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Numerics.Vectors.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ObjectModel.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.CoreLib.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.DataContractSerialization.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Uri.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Xml.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Xml.Linq.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.DispatchProxy.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.ILGeneration.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.Lightweight.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Extensions.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Metadata.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Primitives.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.TypeExtensions.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.Reader.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.ResourceManager.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.Writer.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.CompilerServices.Unsafe.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.CompilerServices.VisualC.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Extensions.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Handles.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.InteropServices.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Intrinsics.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Loader.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Numerics.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Formatters.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Json.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Primitives.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Xml.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.AccessControl.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Claims.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Algorithms.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Cng.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Csp.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Encoding.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.OpenSsl.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Primitives.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.X509Certificates.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Principal.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Principal.Windows.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.SecureString.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ServiceModel.Web.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ServiceProcess.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.CodePages.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.Extensions.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encodings.Web.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Json.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.RegularExpressions.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Channels.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Overlapped.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Dataflow.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Extensions.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Parallel.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Thread.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.ThreadPool.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Timer.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Transactions.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Transactions.Local.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ValueTuple.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Web.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Web.HttpUtility.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Windows.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.Linq.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.ReaderWriter.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.Serialization.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XDocument.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XmlDocument.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XmlSerializer.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XPath.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XPath.XDocument.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Api.Attributes.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Api.Attributes.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Awesome.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Awesome.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Visitor.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Visitor.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.Output.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.Output.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.Output.xml",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Android.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Android.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Linux.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Linux.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.MacOSX.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.MacOSX.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WebGL.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WebGL.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WindowsDesktop.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WindowsDesktop.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.PinnedToolChains.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.PinnedToolChains.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Building.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Building.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common35.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common35.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.DataModel.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.DataModel.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.RuntimeServices.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.RuntimeServices.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Shell.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Shell.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.Output.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.Output.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.Output.xml",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Options.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Options.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.deps.json",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.dll",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.dll.config",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.pdb",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.runtimeconfig.json",
+        "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/WindowsBase.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Assembly-CSharp.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/ICallSummary.txt",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/SerializedTypes.xml",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/System.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/TypesInScenes.xml",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.XR.ARFoundation.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.XR.ARFoundation.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.XR.ARKit.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.XR.ARKit.FaceTracking.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.XR.ARKit.FaceTracking.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.XR.ARKit.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.XR.ARSubsystems.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.XR.ARSubsystems.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/Unity.XR.Management.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.UI.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.pdb",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityICallRegistration.cpp",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed/UnityLinkerToEditorData.json",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp"
+      ],
+      "Outputs": [
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_ian9.traceevents",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_ian9.traceevents"
+      ],
+      "TargetDirectories": [
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput",
+        "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols"
+      ],
+      "OverwriteOutputs": false,
+      "AllowUnexpectedOutput": true,
+      "GlobSignatures": [
+        {
+          "Path": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Filter": "*.cpp",
+          "Recurse": 1
+        },
+        {
+          "Path": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Filter": "*.c",
+          "Recurse": 1
+        },
+        {
+          "Path": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Filter": "*.mm",
+          "Recurse": 1
+        },
+        {
+          "Path": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Filter": "*.m",
+          "Recurse": 1
+        },
+        {
+          "Path": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Filter": "*.h",
+          "Recurse": 1
+        },
+        {
+          "Path": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
+          "Recurse": 1
+        }
+      ],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "FinalProgram",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 2
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.Api.Output.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Analytics.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.BeeDriver.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Core.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.CSharpSupport.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.DotNet.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.NativeProgramSupport.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Stevedore.Program.exe"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TinyProfiler2.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Android.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Emscripten.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.GNU.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Linux.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.LLVM.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.MacOS.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.VisualStudio.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Windows.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Toolchain.Xcode.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.Tools.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.TundraBackend.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Bee.VisualStudioSolution.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/JetBrains.Profiler.Api.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Bcl.HashCode.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.CSharp.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.VisualBasic.Core.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.VisualBasic.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Win32.Primitives.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.Win32.Registry.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/MiniProfiler.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Mdb.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Pdb.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Mono.Cecil.Rocks.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/monolinker.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/mscorlib.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/netstandard.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/NiceIO.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/SharpYaml.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.AppContext.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Buffers.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Concurrent.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Immutable.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.NonGeneric.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Collections.Specialized.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.Annotations.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.DataAnnotations.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.EventBasedAsync.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.Primitives.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ComponentModel.TypeConverter.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Configuration.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Console.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Core.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.Common.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.DataSetExtensions.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Data.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Contracts.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Debug.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.DiagnosticSource.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.FileVersionInfo.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Process.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.StackTrace.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.TextWriterTraceListener.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Tools.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.TraceSource.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Diagnostics.Tracing.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Drawing.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Drawing.Primitives.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Dynamic.Runtime.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Formats.Asn1.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.Calendars.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Globalization.Extensions.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.Brotli.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.FileSystem.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Compression.ZipFile.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.AccessControl.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.DriveInfo.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.Primitives.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.FileSystem.Watcher.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.IsolatedStorage.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.MemoryMappedFiles.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Pipes.AccessControl.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.Pipes.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.UnmanagedMemoryStream.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Expressions.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Parallel.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Linq.Queryable.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Memory.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Http.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Http.Json.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.HttpListener.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Mail.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.NameResolution.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.NetworkInformation.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Ping.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Primitives.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Quic.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Requests.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Security.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.ServicePoint.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.Sockets.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebClient.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebHeaderCollection.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebProxy.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebSockets.Client.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebSockets.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Numerics.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Numerics.Vectors.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ObjectModel.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.CoreLib.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.DataContractSerialization.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Uri.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Xml.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Private.Xml.Linq.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.DispatchProxy.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.ILGeneration.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Emit.Lightweight.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Extensions.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Metadata.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.Primitives.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.TypeExtensions.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.Reader.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.ResourceManager.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Resources.Writer.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.CompilerServices.Unsafe.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.CompilerServices.VisualC.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Extensions.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Handles.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.InteropServices.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.InteropServices.RuntimeInformation.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Intrinsics.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Loader.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Numerics.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Formatters.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Json.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Primitives.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Runtime.Serialization.Xml.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.AccessControl.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Claims.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Algorithms.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Cng.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Csp.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Encoding.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.OpenSsl.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.Primitives.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Cryptography.X509Certificates.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Principal.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Principal.Windows.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.SecureString.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ServiceModel.Web.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ServiceProcess.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.CodePages.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encoding.Extensions.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Encodings.Web.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.Json.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Text.RegularExpressions.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Channels.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Overlapped.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Dataflow.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Extensions.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Tasks.Parallel.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Thread.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.ThreadPool.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Timer.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Transactions.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Transactions.Local.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.ValueTuple.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Web.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Web.HttpUtility.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Windows.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.Linq.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.ReaderWriter.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.Serialization.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XDocument.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XmlDocument.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XmlSerializer.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XPath.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.XPath.XDocument.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Api.Attributes.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Awesome.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Cecil.Visitor.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Api.Output.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Android.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.Linux.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.MacOSX.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WebGL.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.WindowsDesktop.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.PinnedToolChains.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Building.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Common35.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.DataModel.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.RuntimeServices.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Shell.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.Output.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Options.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/UnityLinker.dll"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy/WindowsBase.dll"
+    },
+    {
+      "File": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/bee-inputdata.json"
+    }
+  ],
+  "StatSignatures": [
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/external/xamarin-android"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/codegen"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/gc"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils"
+    },
+    {
+      "File": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpptiny"
+    },
+    {
+      "File": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/bee-inputdata.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/build/deploy"
+    },
+    {
+      "Path": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/external/xamarin-android"
+    },
+    {
+      "Path": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/codegen",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/gc",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Volumes/Mac/Applications/UnityEditor/2021.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils",
+      "Recurse": 1
+    },
+    {
+      "Path": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Temp/StagingArea/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".winmd",
+    ".pdb",
+    ".cpp",
+    ".cc",
+    ".c",
+    ".hpp",
+    ".h",
+    ".json",
+    ".xml",
+    ".txt"
+  ],
+  "StructuredLogFileName": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/tundra.log.json",
+  "StateFileName": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state",
+  "StateFileNameTmp": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state.map",
+  "ScanCacheFileName": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/tundra.scancache",
+  "ScanCacheFileNameTmp": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/tundra.scancache.tmp",
+  "DigestCacheFileName": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/tundra.digestcache",
+  "DigestCacheFileNameTmp": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/tundra.digestcache.tmp",
+  "EmitDataForBeeWhy": 1,
+  "DirectoriesCausingImplicitDependencies": [
+    "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
+    "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput",
+    "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols"
+  ],
+        "NamedNodes": {
+          "all_tundra_nodes": 0,
+          "FinalProgram": 2
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "/Volumes/Mac/NYU/VR_AR/Project/ARProject/Library/Il2cppBuildCache/iOS/buildstate/bee.dag.json",
+  "BuildTitle": "il2cpp",
+  "RelativePathToRoot": "."
+}
